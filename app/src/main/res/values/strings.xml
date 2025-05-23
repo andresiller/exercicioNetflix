@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">ExercicioNetflix</string>
+    <string name="app_name">Netflix</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="a_imperatriz">A Imperatriz</string>
+    <string name="detalhes">detalhes</string>
+    <string name="rebeldia">rebeldia</string>
+    <string name="realeza">realeza</string>
+    <string name="romance">romance</string>
+    <string name="lançamento">lançamento</string>
+    <string name="séries">séries</string>
+    <string name="filme">filme</string>
 </resources>

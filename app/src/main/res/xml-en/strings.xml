@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="assistir">Watch</string>
+    <string name="minha_lista">My List</string>
+    <string name="a_imperatriz">The Empress</string>
+    <string name="detalhes">Details</string>
+    <string name="rebeldia">Rebelion</string>
+    <string name="realeza">Royalty</string>
+    <string name="romance">Romance</string>
+    <string name="lançamento">New Releze</string>
+    <string name="séries">Series</string>
+    <string name="filme">Movie</string>
+</resources>
